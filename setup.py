@@ -22,7 +22,7 @@ def read_requirements():
 
 setup(
     name='lazmond3-pylib-debug',
-    version='1.0.0',
+    version='1.0.1',
     description='debug env detection package',
     long_description=readme,
     author='lazmond3',
