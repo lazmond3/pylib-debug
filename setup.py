@@ -31,5 +31,5 @@ setup(
     install_requires=read_requirements(),
     license=license,
     packages=find_packages(exclude=('tests', 'docs')),
-    est_suite='tests'
+    test_suite='tests'
 )
